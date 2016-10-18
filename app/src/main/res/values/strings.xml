@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sumatoria_PriNumeros</string>
+    <string name="numero">Ingrese el numero</string>
+    <string name="sumar">Calcular</string>
+</resources>
